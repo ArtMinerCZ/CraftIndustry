@@ -97,15 +97,36 @@
       "locked_code": false,
       "registry_name": "craft_industryroot",
       "path": "~/achievements"
+    },
+    {
+      "name": "EatenChilli",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eaten_chilli",
+      "path": "~/achievements"
+    },
+    {
+      "name": "BurgerBun",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_bun",
+      "path": "~/food"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.eaten_chilli.title": "Oh shit! So... so... hot.",
       "item.craftindustry.onion": "Onion",
       "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
       "item.craftindustry.knifebronze": "Bronze knife",
+      "advancements.eaten_chilli.descr": "Have some chilli.",
+      "item.craftindustry.burger_bun": "Burger bun",
       "advancements.craft_industryroot.title": "CraftIndustry",
       "item.craftindustry.dustcopper": "Copper dust",
       "item.craftindustry.bronze": "Bronze",

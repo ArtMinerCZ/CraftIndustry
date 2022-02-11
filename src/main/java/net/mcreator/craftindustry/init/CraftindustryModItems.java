@@ -15,6 +15,7 @@ import net.mcreator.craftindustry.item.OnionItem;
 import net.mcreator.craftindustry.item.KnifebronzeItem;
 import net.mcreator.craftindustry.item.DustcopperItem;
 import net.mcreator.craftindustry.item.ChillPepperItem;
+import net.mcreator.craftindustry.item.BurgerBunItem;
 import net.mcreator.craftindustry.item.BronzeItem;
 
 import java.util.List;
@@ -29,6 +30,7 @@ public class CraftindustryModItems {
 	public static final Item TOMATO = register(new TomatoItem());
 	public static final Item ONION = register(new OnionItem());
 	public static final Item CHILL_PEPPER = register(new ChillPepperItem());
+	public static final Item BURGER_BUN = register(new BurgerBunItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

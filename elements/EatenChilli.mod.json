@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Oh shit! So... so... hot.",
-    "achievementDescription": "Hav sme chilli.",
+    "achievementDescription": "Have some chilli.",
     "achievementIcon": {
       "value": "CUSTOM:ChillPepper"
     },
