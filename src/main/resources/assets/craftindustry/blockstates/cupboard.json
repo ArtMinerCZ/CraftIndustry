@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "craftindustry:block/cupboard"
+    },
+    "facing=east": {
+      "model": "craftindustry:block/cupboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "craftindustry:block/cupboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "craftindustry:block/cupboard",
+      "y": 270
+    }
+  }
+}

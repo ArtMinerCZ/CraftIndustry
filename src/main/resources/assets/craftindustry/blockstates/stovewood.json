@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "craftindustry:block/stovewood"
+    },
+    "facing=east": {
+      "model": "craftindustry:block/stovewood",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "craftindustry:block/stovewood",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "craftindustry:block/stovewood",
+      "y": 270
+    }
+  }
+}

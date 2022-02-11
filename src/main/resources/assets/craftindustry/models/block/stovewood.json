@@ -1,0 +1,13 @@
+{
+  "parent": "craftindustry:custom/sporak_drevo",
+  "textures": {
+    "all": "craftindustry:blocks/bricks",
+    "particle": "craftindustry:blocks/bricks",
+    "1": "craftindustry:blocks/terracotta",
+    "2": "craftindustry:blocks/iron_block",
+    "3": "craftindustry:blocks/anvil",
+    "4": "craftindustry:blocks/bricks",
+    "5": "craftindustry:blocks/blast_furnace_front",
+    "missing": "craftindustry:blocks/"
+  }
+}

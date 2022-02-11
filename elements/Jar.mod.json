@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "copper_dust",
+    "texture": "jar_empty",
     "customModelName": "Normal",
-    "name": "Copper dust",
+    "name": "Jar",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:CraftIndustry"
+      "value": "No creative tab entry"
     },
     "stackSize": 64,
     "enchantability": 0,

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_1": "terracotta",
+        "m_0": "stripped_oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

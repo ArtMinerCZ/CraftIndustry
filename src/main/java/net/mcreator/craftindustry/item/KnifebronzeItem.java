@@ -7,6 +7,8 @@ import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 
+import net.mcreator.craftindustry.init.CraftindustryModTabs;
+
 public class KnifebronzeItem extends SwordItem {
 	public KnifebronzeItem() {
 		super(new Tier() {
@@ -33,7 +35,7 @@ public class KnifebronzeItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.EMPTY;
 			}
-		}, 3, 21f, new Item.Properties().tab(null));
+		}, 3, 21f, new Item.Properties().tab(CraftindustryModTabs.TAB_CRAFT_INDUSTRY));
 		setRegistryName("knifebronze");
 	}
 

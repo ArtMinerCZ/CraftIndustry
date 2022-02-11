@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "terracotta",
+        "2": "iron_block",
+        "3": "anvil",
+        "4": "bricks",
+        "5": "blast_furnace_front",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

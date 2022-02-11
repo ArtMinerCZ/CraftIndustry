@@ -8,7 +8,7 @@
     "name": "Bronze knife",
     "specialInfo": [],
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "CUSTOM:CraftIndustry"
     },
     "toolType": "Sword",
     "harvestLevel": 1,

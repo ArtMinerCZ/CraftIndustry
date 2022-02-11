@@ -1,13 +1,18 @@
 {
   "advancements.eaten_chilli.title": "Oh shit! So... so... hot.",
-  "item.craftindustry.onion": "Onion",
-  "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
+  "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
+  "block.craftindustry.cupboard": "Cupboard",
+  "itemGroup.tabcraft_industry": "CraftIndustry",
   "item.craftindustry.knifebronze": "Bronze knife",
-  "advancements.eaten_chilli.descr": "Have some chilli.",
   "item.craftindustry.burger_bun": "Burger bun",
   "advancements.craft_industryroot.title": "CraftIndustry",
   "item.craftindustry.dustcopper": "Copper dust",
   "item.craftindustry.bronze": "Bronze",
   "item.craftindustry.tomato": "Tomato",
+  "item.craftindustry.onion": "Onion",
+  "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
+  "advancements.eaten_chilli.descr": "Have some chilli.",
+  "item.craftindustry.jar": "Jar",
+  "block.craftindustry.stovewood": "Wood-fired stove",
   "item.craftindustry.chill_pepper": "Chili pepper"
 }

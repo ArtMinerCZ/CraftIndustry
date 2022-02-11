@@ -3,7 +3,7 @@
     {
       "name": "Knifebronze",
       "type": "tool",
-      "sortid": 1,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "knifebronze",
@@ -12,7 +12,7 @@
     {
       "name": "Bronze",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bronze",
@@ -21,7 +21,7 @@
     {
       "name": "Knifebronzerecipe",
       "type": "recipe",
-      "sortid": 3,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "knifebronzerecipe",
@@ -30,7 +30,7 @@
     {
       "name": "Dustcopper",
       "type": "item",
-      "sortid": 4,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dustcopper",
@@ -39,7 +39,7 @@
     {
       "name": "CopperFromDustrecipe",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "copper_from_dustrecipe",
@@ -48,7 +48,7 @@
     {
       "name": "Tomato",
       "type": "food",
-      "sortid": 6,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tomato",
@@ -57,7 +57,7 @@
     {
       "name": "Onion",
       "type": "food",
-      "sortid": 7,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "onion",
@@ -66,7 +66,7 @@
     {
       "name": "ChillPepperEaten",
       "type": "procedure",
-      "sortid": 8,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chill_pepper_eaten",
@@ -83,7 +83,7 @@
     {
       "name": "ChillPepper",
       "type": "food",
-      "sortid": 8,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chill_pepper",
@@ -92,7 +92,7 @@
     {
       "name": "CraftIndustryroot",
       "type": "achievement",
-      "sortid": 9,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "craft_industryroot",
@@ -101,7 +101,7 @@
     {
       "name": "EatenChilli",
       "type": "achievement",
-      "sortid": 10,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eaten_chilli",
@@ -110,11 +110,61 @@
     {
       "name": "BurgerBun",
       "type": "food",
-      "sortid": 11,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "burger_bun",
       "path": "~/food"
+    },
+    {
+      "name": "Jar",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jar",
+      "path": "~/items"
+    },
+    {
+      "name": "JarRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jar_recipe",
+      "path": "~/items"
+    },
+    {
+      "name": "CraftIndustry",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_industry"
+    },
+    {
+      "name": "CraftIndustryCooking",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_industry_cooking"
+    },
+    {
+      "name": "Cupboard",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupboard"
+    },
+    {
+      "name": "Stovewood",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stovewood"
     }
   ],
   "variable_elements": [],
@@ -122,15 +172,20 @@
   "language_map": {
     "en_us": {
       "advancements.eaten_chilli.title": "Oh shit! So... so... hot.",
-      "item.craftindustry.onion": "Onion",
-      "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
+      "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
+      "block.craftindustry.cupboard": "Cupboard",
+      "itemGroup.tabcraft_industry": "CraftIndustry",
       "item.craftindustry.knifebronze": "Bronze knife",
-      "advancements.eaten_chilli.descr": "Have some chilli.",
       "item.craftindustry.burger_bun": "Burger bun",
       "advancements.craft_industryroot.title": "CraftIndustry",
       "item.craftindustry.dustcopper": "Copper dust",
       "item.craftindustry.bronze": "Bronze",
       "item.craftindustry.tomato": "Tomato",
+      "item.craftindustry.onion": "Onion",
+      "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
+      "advancements.eaten_chilli.descr": "Have some chilli.",
+      "item.craftindustry.jar": "Jar",
+      "block.craftindustry.stovewood": "Wood-fired stove",
       "item.craftindustry.chill_pepper": "Chili pepper"
     }
   },
@@ -147,6 +202,10 @@
       },
       {
         "name": "achievements",
+        "children": []
+      },
+      {
+        "name": "items",
         "children": []
       }
     ]
