@@ -53,12 +53,22 @@
       "locked_code": false,
       "registry_name": "tomato",
       "path": "~/food"
+    },
+    {
+      "name": "Onion",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onion",
+      "path": "~/food"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.craftindustry.onion": "Onion",
       "item.craftindustry.knifebronze": "Bronze knife",
       "item.craftindustry.dustcopper": "Copper dust",
       "item.craftindustry.bronze": "Bronze",
