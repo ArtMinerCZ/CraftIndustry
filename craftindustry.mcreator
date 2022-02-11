@@ -1,64 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "CraftIndustry",
-      "type": "tab",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "craft_industry"
-    },
-    {
-      "name": "Knifeiron",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "knifeiron"
-    },
-    {
-      "name": "Knifeironrecipe",
-      "type": "recipe",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "knifeironrecipe"
-    },
-    {
-      "name": "Taganyknife",
-      "type": "tag",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "taganyknife"
-    },
-    {
-      "name": "CraftIndustryroot",
-      "type": "achievement",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "craft_industryroot"
-    },
-    {
-      "name": "Ingotbronze",
-      "type": "item",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotbronze"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.craftindustry.ingotbronze": "Bronze ingot",
-      "item.craftindustry.knifeiron": "Iron knife",
-      "advancements.craft_industryroot.descr": "Great things are waiting.",
-      "itemGroup.tabcraft_industry": "CraftIndustry",
-      "advancements.craft_industryroot.title": "CraftIndustry"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
