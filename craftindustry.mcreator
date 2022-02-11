@@ -8,13 +8,42 @@
       "locked_code": false,
       "registry_name": "knifebronze",
       "path": "~/tools"
+    },
+    {
+      "name": "Bronze",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bronze",
+      "path": "~/tools"
+    },
+    {
+      "name": "Knifebronzerecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knifebronzerecipe",
+      "path": "~/tools"
+    },
+    {
+      "name": "Dustcopper",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dustcopper",
+      "path": "~/tools"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.craftindustry.knifebronze": "Bronze knife"
+      "item.craftindustry.knifebronze": "Bronze knife",
+      "item.craftindustry.dustcopper": "Copper dust",
+      "item.craftindustry.bronze": "Bronze"
     }
   },
   "foldersRoot": {

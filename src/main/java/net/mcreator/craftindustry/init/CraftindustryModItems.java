@@ -11,6 +11,8 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.craftindustry.item.KnifebronzeItem;
+import net.mcreator.craftindustry.item.DustcopperItem;
+import net.mcreator.craftindustry.item.BronzeItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -19,6 +21,8 @@ import java.util.ArrayList;
 public class CraftindustryModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
 	public static final Item KNIFEBRONZE = register(new KnifebronzeItem());
+	public static final Item BRONZE = register(new BronzeItem());
+	public static final Item DUSTCOPPER = register(new DustcopperItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
