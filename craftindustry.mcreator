@@ -35,6 +35,15 @@
       "locked_code": false,
       "registry_name": "dustcopper",
       "path": "~/tools"
+    },
+    {
+      "name": "CopperFromDustrecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_from_dustrecipe",
+      "path": "~/tools"
     }
   ],
   "variable_elements": [],
