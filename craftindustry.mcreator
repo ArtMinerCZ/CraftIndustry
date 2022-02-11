@@ -62,6 +62,41 @@
       "locked_code": false,
       "registry_name": "onion",
       "path": "~/food"
+    },
+    {
+      "name": "ChillPepperEaten",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chill_pepper_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/food"
+    },
+    {
+      "name": "ChillPepper",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chill_pepper",
+      "path": "~/food"
+    },
+    {
+      "name": "CraftIndustryroot",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_industryroot",
+      "path": "~/achievements"
     }
   ],
   "variable_elements": [],
@@ -69,10 +104,13 @@
   "language_map": {
     "en_us": {
       "item.craftindustry.onion": "Onion",
+      "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
       "item.craftindustry.knifebronze": "Bronze knife",
+      "advancements.craft_industryroot.title": "CraftIndustry",
       "item.craftindustry.dustcopper": "Copper dust",
       "item.craftindustry.bronze": "Bronze",
-      "item.craftindustry.tomato": "Tomato"
+      "item.craftindustry.tomato": "Tomato",
+      "item.craftindustry.chill_pepper": "Chili pepper"
     }
   },
   "foldersRoot": {
@@ -84,6 +122,10 @@
       },
       {
         "name": "food",
+        "children": []
+      },
+      {
+        "name": "achievements",
         "children": []
       }
     ]

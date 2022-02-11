@@ -1,7 +1,10 @@
 {
   "item.craftindustry.onion": "Onion",
+  "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
   "item.craftindustry.knifebronze": "Bronze knife",
+  "advancements.craft_industryroot.title": "CraftIndustry",
   "item.craftindustry.dustcopper": "Copper dust",
   "item.craftindustry.bronze": "Bronze",
-  "item.craftindustry.tomato": "Tomato"
+  "item.craftindustry.tomato": "Tomato",
+  "item.craftindustry.chill_pepper": "Chili pepper"
 }

@@ -14,6 +14,7 @@ import net.mcreator.craftindustry.item.TomatoItem;
 import net.mcreator.craftindustry.item.OnionItem;
 import net.mcreator.craftindustry.item.KnifebronzeItem;
 import net.mcreator.craftindustry.item.DustcopperItem;
+import net.mcreator.craftindustry.item.ChillPepperItem;
 import net.mcreator.craftindustry.item.BronzeItem;
 
 import java.util.List;

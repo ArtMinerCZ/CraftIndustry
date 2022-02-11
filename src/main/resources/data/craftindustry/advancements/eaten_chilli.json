@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftindustry:chill_pepper"
+    },
+    "title": {
+      "translate": "advancements.eaten_chilli.title"
+    },
+    "description": {
+      "translate": "advancements.eaten_chilli.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "eaten_chilli": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "craftindustry:chill_pepper"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "craftindustry:craft_industryroot"
+}

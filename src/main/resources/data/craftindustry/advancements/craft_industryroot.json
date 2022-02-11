@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "craftindustry:bronze"
+    },
+    "title": {
+      "translate": "advancements.craft_industryroot.title"
+    },
+    "description": {
+      "translate": "advancements.craft_industryroot.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_industryroot": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
