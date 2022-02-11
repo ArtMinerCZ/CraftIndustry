@@ -44,6 +44,15 @@
       "locked_code": false,
       "registry_name": "copper_from_dustrecipe",
       "path": "~/tools"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomato",
+      "path": "~/food"
     }
   ],
   "variable_elements": [],
@@ -52,7 +61,8 @@
     "en_us": {
       "item.craftindustry.knifebronze": "Bronze knife",
       "item.craftindustry.dustcopper": "Copper dust",
-      "item.craftindustry.bronze": "Bronze"
+      "item.craftindustry.bronze": "Bronze",
+      "item.craftindustry.tomato": "Tomato"
     }
   },
   "foldersRoot": {
@@ -60,6 +70,10 @@
     "children": [
       {
         "name": "tools",
+        "children": []
+      },
+      {
+        "name": "food",
         "children": []
       }
     ]
