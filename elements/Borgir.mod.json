@@ -2,9 +2,9 @@
   "_fv": 24,
   "_type": "food",
   "definition": {
-    "renderType": 2,
+    "renderType": 1,
     "texture": "svg_ikona-burger",
-    "customModelName": "borgir-kostky",
+    "customModelName": "borgir:default",
     "name": "Borgir",
     "rarity": "UNCOMMON",
     "specialInfo": [],

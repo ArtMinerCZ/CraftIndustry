@@ -1,9 +1,7 @@
 {
-  "forge_marker": 1,
-  "parent": "forge:item/default",
-  "loader": "forge:obj",
-  "model": "craftindustry:models/item/borgir-kostky.obj",
+  "parent": "craftindustry:custom/borgir",
   "textures": {
+    "0": "craftindustry:blocks/texture",
     "particle": "craftindustry:items/svg_ikona-burger"
   }
 }
