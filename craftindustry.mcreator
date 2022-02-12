@@ -172,8 +172,8 @@
   "language_map": {
     "en_us": {
       "advancements.eaten_chilli.title": "Oh shit! So... so... hot.",
-      "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
       "block.craftindustry.cupboard": "Cupboard",
+      "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
       "itemGroup.tabcraft_industry": "CraftIndustry",
       "item.craftindustry.knifebronze": "Bronze knife",
       "item.craftindustry.burger_bun": "Burger bun",
