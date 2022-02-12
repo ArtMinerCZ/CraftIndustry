@@ -21,6 +21,7 @@ import net.mcreator.craftindustry.item.DustcopperItem;
 import net.mcreator.craftindustry.item.ChillPepperItem;
 import net.mcreator.craftindustry.item.BurgerBunItem;
 import net.mcreator.craftindustry.item.BronzeItem;
+import net.mcreator.craftindustry.item.BorgirItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -38,6 +39,7 @@ public class CraftindustryModItems {
 	public static final Item JAR = register(new JarItem());
 	public static final Item CUPBOARD = register(CraftindustryModBlocks.CUPBOARD, CraftindustryModTabs.TAB_CRAFT_INDUSTRY);
 	public static final Item STOVEWOOD = register(CraftindustryModBlocks.STOVEWOOD, CraftindustryModTabs.TAB_CRAFT_INDUSTRY_COOKING);
+	public static final Item BORGIR = register(new BorgirItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

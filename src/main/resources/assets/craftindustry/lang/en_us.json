@@ -1,7 +1,7 @@
 {
   "advancements.eaten_chilli.title": "Oh shit! So... so... hot.",
-  "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
   "block.craftindustry.cupboard": "Cupboard",
+  "itemGroup.tabcraft_industry_cooking": "CraftIndustry - Cooking",
   "itemGroup.tabcraft_industry": "CraftIndustry",
   "item.craftindustry.knifebronze": "Bronze knife",
   "item.craftindustry.burger_bun": "Burger bun",
@@ -9,6 +9,7 @@
   "item.craftindustry.dustcopper": "Copper dust",
   "item.craftindustry.bronze": "Bronze",
   "item.craftindustry.tomato": "Tomato",
+  "item.craftindustry.borgir": "Borgir",
   "item.craftindustry.onion": "Onion",
   "advancements.craft_industryroot.descr": "It\u0027s only the beginning.",
   "advancements.eaten_chilli.descr": "Have some chilli.",
